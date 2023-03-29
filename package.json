@@ -3,7 +3,7 @@
   "version": "1.0.6",
   "description": "Affiche le prix des carburants sur MagicMirror",
   "main": "MMM-PrixCarburants.js",
-  "author": "@bugsounet",
+  "author": "@bugsounet_fork_@kelly97129",
   "license": "MIT",
   "scripts": {
     "preinstall": "installer/preinstall.sh",
