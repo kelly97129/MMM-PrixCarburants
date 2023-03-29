@@ -1,7 +1,7 @@
 /* Magic Mirror
  * Node Helper: MMM-PrixCarburants
  *
- * By bugsounet ©2022
+ * By kelly97129 ©2023
  * MIT Licensed.
  */
 
