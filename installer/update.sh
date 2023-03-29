@@ -61,7 +61,7 @@ git pull
 
 echo
 Installer_info "Deleting ALL @kelly97129 libraries..."
-rm -rf node_modules/@kelly9712
+rm -rf node_modules/@kelly97129
 
 echo
 Installer_info "Ready for Installing..."
