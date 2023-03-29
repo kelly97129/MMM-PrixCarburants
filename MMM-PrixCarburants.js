@@ -3,7 +3,7 @@
 /* Magic Mirror
  * Module: MMM-PrixCarburants
  *
- * By bugsounet ©2022
+ * By kelly97129 ©2023
  * MIT Licensed.
  */
 log = (...args) => { /* do nothing */ }
@@ -257,7 +257,7 @@ Module.register("MMM-PrixCarburants", {
     switch(noti) {
       case "DOM_OBJECTS_CREATED":
         if (this.config.debug) log = (...args) => { console.log("[CARBURANTS]", ...args) }
-        setTimeout(() => this.sendSocketNotification("INIT", this.config), this.config.dev ? 0 : 1000*30)
+        setTimeout(() => this.sendSocketNotification("INIT", this.config), this.config.dev ? 0 : 1000*60)
         break
     }
   },
