@@ -3,13 +3,13 @@
 Ce module permet d'afficher les prix des carburants des stations selon votre code postal
 
 ## Screenshot
-![](https://raw.githubusercontent.com/bugsounet/MMM-PrixCarburants/dev/data/screenshot.png)
+![](https://raw.githubusercontent.com/kelly97129/MMM-PrixCarburants/dev/data/screenshot.png)
 
 ## Installation
 
 ```sh
 cd ~/MagicMirror/modules
-git clone https://github.com/bugsounet/MMM-PrixCarburants
+git clone https://github.com/kelly97129/MMM-PrixCarburants
 cd MMM-PrixCarburants
 npm install
 ```
