@@ -29,6 +29,6 @@ Installer_module="$(grep -Eo '\"name\"[^,]*' ./package.json | grep -Eo '[^:]*$' 
 
 # the end...
 Installer_warning "Support is now moved in a dedicated Server: https://forum.bugsounet.fr"
-Installer_warning "@bugsounet"
+Installer_warning "@kelly97129"
 echo
 Installer_success "$Installer_module is now installed !"
