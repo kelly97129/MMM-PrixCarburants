@@ -60,8 +60,8 @@ git reset --hard HEAD
 git pull
 
 echo
-Installer_info "Deleting ALL @bugsounet libraries..."
-rm -rf node_modules/@bugsounet
+Installer_info "Deleting ALL @kelly97129 libraries..."
+rm -rf node_modules/@kelly9712
 
 echo
 Installer_info "Ready for Installing..."
